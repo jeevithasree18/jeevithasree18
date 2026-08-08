@@ -5,7 +5,7 @@
 I'm a Computer Science Engineering student interested in building
 practical web applications and AI-powered solutions.
 
-Currently learning and improving my skills in:
+Currently learning and improving my skills in: 
 
 - Full Stack Web Development
 - Python
