@@ -23,11 +23,6 @@ explore career opportunities and improve their preparation.
 
 **Tech:** Python, AI, Web Technologies
 
-### 🚁 AI-Driven Autonomous Drone Navigation
-An AI-based drone navigation system designed for rescue operations.
-
-**Tech:** Python, AirSim, Pygame, Ursina
-
 ### 💻 SS Associates Event Management
 A web-based event management platform for managing event enquiries
 and customer information.
